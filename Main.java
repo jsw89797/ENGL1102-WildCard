@@ -101,6 +101,8 @@ public class Main {
 	/** Lists out the users options! */
 	public static void options() {
 		System.out.print("\n");
+		System.out.print("Type in the characters given in the parenthesis to get quotes!");
+		System.out.print("\n");
 		System.out.print("Flannery O'Connor Quotes!(fq)" + "\t" + "Favorite Flannery O'Connor Quote! (ffq)" + "\n");
 		System.out.print("John Updike Quotes!(jq)" + "\t" + "\t" + "Favorite John Updike Quote! (fjq)" + "\t" + "\n"
 				+ "Quit!(q)");
